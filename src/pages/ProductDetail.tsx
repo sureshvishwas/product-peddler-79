@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
@@ -7,6 +6,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import AddToCartButton from '@/components/AddToCartButton';
 import { Product } from '@/context/CartContext';
+import ProductCard from '@/components/ProductCard';
 
 // Sample product data
 const products: Product[] = [
