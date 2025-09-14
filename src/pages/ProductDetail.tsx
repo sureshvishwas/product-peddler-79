@@ -14,7 +14,7 @@ const products: Product[] = [
     id: '1',
     name: 'Premium Ceramic Vase',
     price: 89.99,
-    image: 'https://images.unsplash.com/photo-1612546907452-6afbd5accb91?auto=format&fit=crop&q=80&w=1000',
+    image: 'https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=1000',
     description: 'Handcrafted ceramic vase with a modern, minimalist design. Perfect for displaying fresh or dried flowers. Each vase is unique with slight variations in texture and color, making it a truly one-of-a-kind piece for your home.'
   },
   {
