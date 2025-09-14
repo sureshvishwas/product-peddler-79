@@ -14,7 +14,14 @@ npm run dev
 ![image alt](https://github.com/sureshvishwas/product-peddler-79/blob/f4c1e56ef44f1dd1f95eb549d348deb16717c685/main.png)
 
 2. image
+![image alt](https://github.com/sureshvishwas/product-peddler-79/blob/a000ddac9aef7cbdab46d1cfa9cbfcdf2aaefb81/localhost_8080_product_4.png)
 
+3. image
+![image alt](https://github.com/sureshvishwas/product-peddler-79/blob/a000ddac9aef7cbdab46d1cfa9cbfcdf2aaefb81/localhost_8080_cart.png)   
+
+
+4. image
+![image alt](https://github.com/sureshvishwas/product-peddler-79/blob/a000ddac9aef7cbdab46d1cfa9cbfcdf2aaefb81/localhost_8080_cart%20(1).png)
 ```
 
 ****
